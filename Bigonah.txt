@@ -1,1 +1,0 @@
-vless://c4fa1549-f3bd-46d9-86ae-f4355a1c4d4d@adler-1g.adelshoop.net:80?path=%2F&security=&encryption=none&type=ws#AD2L7ER-1G-WS-80-60zk0su8
